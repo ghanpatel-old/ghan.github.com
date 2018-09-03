@@ -10,6 +10,8 @@ permalink: /projects/
 [Philip Glass Center](http://www.philipglasscenter.org)
 
 ## Past
+* Wun Wun app
+* Isobar .com
 * Henry Miller Library
 * Allen Ginsberg .org
 * International Center for Transitory Justice
