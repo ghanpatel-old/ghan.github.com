@@ -6,6 +6,7 @@ permalink: /projects/
 
 ## Current
 [Tentrr](https://www.tentrr.com)
+
 [Philip Glass Center](http://www.philipglasscenter.org)
 
 ## Past
